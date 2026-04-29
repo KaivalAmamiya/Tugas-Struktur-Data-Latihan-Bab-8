@@ -4,7 +4,7 @@
 **NIM:** 25091397061  
 **Kelas:** 2025B  
 **Mata Kuliah:** Struktur Data  
-**Program Studi:** S1 Terapan Manajemen Informatika - Fakultas Vokasi - Universitas Negeri Surabaya  
+**Program Studi:** D4 Manajemen Informatika - Fakultas Vokasi - Universitas Negeri Surabaya  
 
 ---
 
